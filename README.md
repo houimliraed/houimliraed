@@ -4,4 +4,4 @@
 
 - 👨‍💻 All of my projects are available at [rayxtn.dev](rayxtn.dev)
 - 📄 Know about my experiences [willdo](willdo)
-- ⚡ Fun fact **I think I am the batman , and that is not a joke**
+- ⚡ Fun fact **I think I am the batman , in case you needed help**
