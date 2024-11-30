@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/hello-hi-green?style=for-the-badge&logo=python&logoColor=white" alt="Hello Badge" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Raed Houimli!</h1>
+<h1 align="center">Hi there 👋, it's me!</h1>
 <h3 align="center">Turning caffeine ☕ into Code ⚡</h3>
 
 <p align="center">
@@ -10,9 +10,8 @@
 </p>
 
 <!-- GitHub Stats with Language Bar Chart -->
-<p align="">
+
   <img width="1000" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&layout=compact&hide=html&langs_count=6&theme=radical" alt="Top Languages Used" />
-</p>
 
 <h4 align="center">
   🛠️ I love building projects, collaborating with teams, and sharing knowledge with the community.
