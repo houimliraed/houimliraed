@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/hello-hi-green?style=for-the-badge&logo=python&logoColor=white" alt="Hello Badge" />
 </p>
 
-<h3 align="center"> caffeine ☕ into Code ⚡</h3>
+<h3 align="center"> Caffeine into Code ⚡</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-Python%20|%20JavaScript%20|%20Data%20Science%20|%20Cybersecurity-blue?style=flat&logo=python&logoColor=white" alt="Skills Badge" />
@@ -12,7 +12,7 @@
 
 <h4 align="center">📊 GitHub Stats</h4>
 <p align="center">
-  <img width="900" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
+  <img width="980" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
 
 
@@ -24,6 +24,3 @@
   <img src="https://img.shields.io/badge/Goals-Senior%20Software%20Engineer-blue?style=flat&logo=star&logoColor=white" alt="Goals Badge" />
 </p>
 
-<h4 align="center">
-  🛠️ I love building projects, collaborating with teams, and sharing knowledge with the community.
-</h4>
