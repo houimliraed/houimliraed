@@ -12,7 +12,7 @@
 
 <h4 align="center">📊 GitHub Stats</h4>
 <p align="center">
-  <img width="800" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
+  <img width="900" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
 
 
