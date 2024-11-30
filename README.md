@@ -1,2 +1,15 @@
-<h1 align="center">Hi👋 , it's me !</h1>
-<h3 align="center">caffeine into Code⚡☕</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/hello-hi-green?style=for-the-badge&logo=python&logoColor=white" alt="Hello Badge" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm Raed Houimli!</h1>
+<h3 align="center">Turning caffeine ☕ into Code ⚡</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills-Python%20|%20Data%20Science%20|%20Cybersecurity-blue?style=flat&logo=python&logoColor=white" alt="Skills Badge" />
+  <img src="https://img.shields.io/badge/Current-Engineering%20Student-red?style=flat&logo=graduation-cap&logoColor=white" alt="Status Badge" />
+</p>
+
+<h4 align="center">
+  🛠️ I love building projects, collaborating with teams, and sharing knowledge with the community.
+</h4>
