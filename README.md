@@ -10,11 +10,11 @@
 
 
 
-<!-- GitHub Stats Card -->
 <h4 align="center">📊 GitHub Stats</h4>
 <p align="center">
-  <img width="1200" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
+  <img width="800" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
+
 
 <!-- About Me Section -->
 <h4 align="center">👨‍💻ABOUT</h4>
