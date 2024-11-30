@@ -6,8 +6,9 @@
 <h3 align="center">Turning caffeine ☕ into Code ⚡</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Skills-Python%20|%20Data%20Science%20|%20Cybersecurity-blue?style=flat&logo=python&logoColor=white" alt="Skills Badge" />
-  <img src="https://img.shields.io/badge/Current-Engineering%20Student-red?style=flat&logo=graduation-cap&logoColor=white" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Skills-Python%20|%20JavaScript%20|%20Data%20Science%20|%20Cybersecurity-blue?style=flat&logo=python&logoColor=white" alt="Skills Badge" />
+  <img src="https://img.shields.io/badge/Experience-Software%20Engineering%20|%20Cybersecurity%20|%20Data%20Science-orange?style=flat&logo=code&logoColor=white" alt="Experience Badge" />
+  <img src="https://img.shields.io/badge/Languages-Python%20|%20JavaScript%20|%20SQL%20|%20HTML%20|%20CSS-yellow?style=flat&logo=language&logoColor=white" alt="Languages Badge" />
 </p>
 
 <h4 align="center">
