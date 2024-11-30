@@ -12,7 +12,7 @@
 <!-- GitHub Stats -->
 <h4 align="center">🔍 Check out the languages I've used in my GitHub projects:</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raedhouimli&layout=compact&hide=html&langs_count=5" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&layout=compact&hide=html&langs_count=5" alt="Top Languages Used" />
 </p>
 
 <h4 align="center">
