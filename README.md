@@ -28,7 +28,7 @@
 <!-- GitHub Stats Card -->
 <h4 align="center">📊 GitHub Stats:</h4>
 <p align="center">
-  <img width="1000" height="250" src="https://github-readme-stats.vercel.app/api?username=rayxtn&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6" alt="Top Languages Used" />
 </p>
 
 <!-- About Me Section -->
