@@ -10,8 +10,7 @@
 </p>
 
 <!-- GitHub Stats with Language Bar Chart -->
-<h4 align="center">🔍 Check out the languages I've used in my GitHub projects:</h4>
-<p align="center">
+<p align="">
   <img width="1000" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&layout=compact&hide=html&langs_count=6&theme=radical" alt="Top Languages Used" />
 </p>
 
