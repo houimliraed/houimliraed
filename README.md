@@ -9,7 +9,7 @@
 
 <h4 align="center">📊STATS</h4>
 <p align="center">
-  <img width="980" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
+  <img width="1200" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxtn&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
 
 
