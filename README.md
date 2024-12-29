@@ -1,6 +1,5 @@
-![Coffee Cup](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/320px-A_small_cup_of_coffee.JPG)
 
-**C4ff3!n3 !nt0 C0d3**
+<p align="center">**C4ff3!n3 !nt0 C0d3**</p>
 
 
 
