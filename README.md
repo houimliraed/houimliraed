@@ -1,25 +1,68 @@
-<h1 align="center"><strong>☕ C4ff3!n3 !nt0 C0d3 💻</strong></h1>
+# Hey there 👋! Welcome to my GitHub profile
 
-<p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80" alt="typing gif" />
-</p>
+- 🦇 Hey you , It's me *Raed Houimli*, a multi-disciplinary engineer & an Air Force Vet<br/>
+- 🧠 Background in *Software Engineering*, *Applied Mathematics*, *Cybersecurity*, and *Cloud Computing*.<br/>
+- 🛠️ what I do ? , currectly on cloud-native && *AWS, Kubernetes, Terraform, Next.js & Django*.<br/>
+- 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects.<br/>
 
----
-
-## 🧠 <strong>GitHub Stats</strong>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=houimliraed&theme=dark&hide_border=true&background=000000&stroke=130F40&ring=7A7ADB&fire=2234AE&currStreakLabel=7A7ADB&sideNums=D3D3D3&currStreakNum=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" />
-</p>
+## I am vengeance... I am the night...
 
 <div align="center">
-  <a href="https://github.com/houimliraed/">
-    <img src="https://github-readme-stats.vercel.app/api?username=houimliraed&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" width="450" />
+  <img src="https://i.imgur.com/3ntE8Qo.png" width="200" alt="Batman Profile Pic"/>
+</div>
+
+## My GitHub stats so far :
+
+<div>
+  <img
+    height="150em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=houimliraed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="150em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=houimliraed&layout=compact&langs_count=8&theme=algolia"
+  />
+</div>
+
+## My socials :
+
+<div class="badges">
+  <a
+    href="https://www.linkedin.com/in/houimliraed/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      height="30px"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn Badge"
+    />
+  </a>
+  <a
+    href="https://www.upwork.com/freelancers/~01e4430391344411d1?mp_source=share"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      height="30px"
+      src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
+      alt="Upwork Badge"
+    />
+  </a>
+  <a
+    href="mailto:houimliraed@engineergrid.com"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      height="30px"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail Badge"
+    />
   </a>
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houimliraed&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=000000&hide_border=true" width="330"/>
-</p>
+<!---
+houimliraed/houimliraed is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
