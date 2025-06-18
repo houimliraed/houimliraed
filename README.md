@@ -1,7 +1,7 @@
 #  Hey you🦇! Welcome to my GitHub profile
 
 - 🦇 It's me *Raed Houimli*, a multi-disciplinary engineer & an Air Force Vet<br/>
-- 🧠 Background in *Software Engineering*, *Applied Mathematics*, *Cybersecurity*, and *Cloud Computing*.<br/>
+- 🧠 Background? Bs *System Dev*, Msc *Software Engineering*, Msc *Applied Mathematics*, Engineer *Cybersecurity* and *Cloud Computing*.<br/>
 - 🛠️ what am I doing ? , currectly on cloud-native && *AWS, Kubernetes, Terraform, Next.js & Django*.<br/>
 - 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects.<br/>
 
