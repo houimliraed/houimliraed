@@ -1,15 +1,11 @@
-# Hey there 👋! Welcome to my GitHub profile
+#  Hey you🦇! Welcome to my GitHub profile
 
-- 🦇 Hey you , It's me *Raed Houimli*, a multi-disciplinary engineer & an Air Force Vet<br/>
+- 🦇 It's me *Raed Houimli*, a multi-disciplinary engineer & an Air Force Vet<br/>
 - 🧠 Background in *Software Engineering*, *Applied Mathematics*, *Cybersecurity*, and *Cloud Computing*.<br/>
-- 🛠️ what I do ? , currectly on cloud-native && *AWS, Kubernetes, Terraform, Next.js & Django*.<br/>
+- 🛠️ what am I doing ? , currectly on cloud-native && *AWS, Kubernetes, Terraform, Next.js & Django*.<br/>
 - 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects.<br/>
 
 ## I am vengeance... I am the night...
-
-<div align="center">
-  <img src="https://i.imgur.com/3ntE8Qo.png" width="200" alt="Batman Profile Pic"/>
-</div>
 
 ## My GitHub stats so far :
 
