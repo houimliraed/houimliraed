@@ -2,7 +2,7 @@
 
 - 🦇 It's me *Raed Houimli*, a multi-disciplinary engineer & an Air Force Vet  
 - 🧠 Background? Bs *System Dev*, Msc *Software Engineering*, Msc *Applied Mathematics*, Engineer *Cybersecurity* and *Cloud Computing*.  
-- 🛠️ What am I doing? Currently focused on Cloud-native & *AWS, Kubernetes, Terraform, Next.js & Python (Django/FastAPI)*  
+- 🛠️ What am I doing? Currently focused on Cloud-native , *AWS (Kubernetes, Terraform), Next.js & Python (Django/FastAPI)*  
 - 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects  
 
 ---
