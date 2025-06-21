@@ -6,7 +6,7 @@
     <td valign="middle" align="center" width="300">
       <img src="https://img.shields.io/badge/Batman_Mode-Activated-black?style=for-the-badge&logo=github&logoColor=white" />
       <br/>
-      <sub><i>"Who’s gonna carry the boat?"</i></sub>
+      <sub><i>"vengeance"</i></sub>
     </td>
   </tr>
 </table>
