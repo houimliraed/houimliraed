@@ -1,4 +1,15 @@
-<h2 align="center"> Hey you🦇! Welcome to my GitHub profile</h2>
+<table>
+  <tr>
+    <td>
+      <h2 align="center">Hey you🦇! Welcome to my GitHub profile</h2>
+    </td>
+    <td valign="middle" align="center" width="300">
+      <img src="https://img.shields.io/badge/Batman_Mode-Activated-black?style=for-the-badge&logo=github&logoColor=white" />
+      <br/>
+      <sub><i>"Who’s gonna carry the boat?"</i></sub>
+    </td>
+  </tr>
+</table>
 
 - 🦇 It's me *Raed Houimli*, a multi-disciplinary engineer & an Air Force Vet  
 - 🧠 Background? Bs *System Dev*, Msc *Software Engineering*, Msc *Applied Mathematics*, Engineer *Cybersecurity* and *Cloud Computing*.  
