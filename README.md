@@ -1,4 +1,4 @@
-# Hey you🦇! Welcome to my GitHub profile
+<h2 align="center"> Hey you🦇! Welcome to my GitHub profile</h2>
 
 - 🦇 It's me *Raed Houimli*, a multi-disciplinary engineer & an Air Force Vet  
 - 🧠 Background? Bs *System Dev*, Msc *Software Engineering*, Msc *Applied Mathematics*, Engineer *Cybersecurity* and *Cloud Computing*.  
@@ -28,7 +28,7 @@
 
 ## 🌐 My Socials :
 
-<div align="left">
+<div align="center" >
   <a href="https://www.linkedin.com/in/houimliraed/" target="_blank" rel="noreferrer">
     <img
       height="30px"
