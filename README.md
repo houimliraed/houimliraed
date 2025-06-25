@@ -17,9 +17,6 @@
 - 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects  
 
 ---
-
-<h2 align="center">🦇 I am vengeance... I am the night... 🦇</h2>
-
 ---
 
 ## 📊 My GitHub stats so far :
