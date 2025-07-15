@@ -12,7 +12,7 @@
 </table>
 
 - 🦇 It's me *Raed Houimli*, a Multi-disciplinary Engineer & an TN Air Force Vet  
-- 🧠 Educational Background? Bs *System Dev*, Msc *Software Engineering*, Msc *Applied Mathematics*, Engineering Degree *Cybersecurity*.  
+- 🧠 Educational Background? Bsc *System Dev*, Msc *Software Engineering*, Msc *Applied Mathematics & Data Science*, Engineering Degree *Cybersecurity*.  
 - 🛠️ What am I doing? Currently focused on Cloud-native , *AWS, Kubernetes, Terraform, Next.js & Python (Django/FastAPI)*  
 - 🎯 Open to collaboration on DevOps, Cloud, Security, and AI projects  
 
