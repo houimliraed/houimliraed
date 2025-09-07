@@ -12,7 +12,6 @@
 </table>
 
 - 🦇 It's me *Raed Houimli*, a Multi-disciplinary Engineer.
-- 🧠 Educational Background? Bsc *System Dev*, Msc *Software Engineering*, Msc *Applied Mathematics & Data Science*, Engineering Degree *Cybersecurity*.  
 - 🛠️ What am I doing? Currently focused on Cloud-native , *AWS, Kubernetes, Terraform, Next.js & Python (Django/FastAPI)*  
 - 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects  
 
