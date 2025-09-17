@@ -6,7 +6,7 @@
     <td valign="middle" align="center" width="300">
       <img src="https://img.shields.io/badge/Batman_Mode-Activated-black?style=for-the-badge&logo=github&logoColor=white" />
       <br/>
-      <sub><i>vengeance</i></sub>
+      <sub><i>Gotham needs me 🦇</i></sub>
     </td>
   </tr>
 </table>
