@@ -12,7 +12,7 @@
 </table>
 
 - 🦇 It's me *Raed Houimli*, a Multi-disciplinary Engineer.
-- 🛠️ What am I doing? Currently focused on Cloud-native , *AWS, Kubernetes, Terraform, Next.js & Python (Django/FastAPI)*  
+- 🛠️ What am I doing? Currently focused on Cloud-native , *AWS, Terraform, Kubernetes, React.js & Python (FastAPI)*  
 - 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects  
 
 ---
