@@ -13,14 +13,6 @@ Focused on cloud-native architectures, automation, and high-impact engineering.
 
 ---
 
-## Featured Projects
-- **EngineerGrid** — MERN + AWS full-stack platform for learning, collaboration, and engineering tools  
-- **Autonomous Mobile Robot Simulation** — ROS2, LiDAR, and 3D camera modeling with AWS IoT monitoring  
-- **Cloud Automation Toolkit** — Modular Terraform IaC for AWS architectures  
-- **DevOps Starter Kits** — CI/CD templates for containers, security scans, and deployments  
-
----
-
 ## 📊 GitHub Stats
 <div>
   <img
