@@ -1,66 +1,41 @@
-<table>
-  <tr>
-    <td>
-      <h2 align="center">Hey you🦇! Welcome to my GitHub profile</h2>
-    </td>
-    <td valign="middle" align="center" width="300">
-      <img src="https://img.shields.io/badge/Batman_Mode-Activated-black?style=for-the-badge&logo=github&logoColor=white" />
-      <br/>
-      <sub><i>Gotham needs me 🦇</i></sub>
-    </td>
-  </tr>
-</table>
+# Raed Houimli — Software & Cloud Engineer
 
-- 🦇 It's me *Raed Houimli*, a Multi-disciplinary Engineer.
-- 🛠️ What am I doing? Currently focused on Cloud-native , *AWS, Terraform, Kubernetes, React.js & Python (FastAPI)*  
-- 🎯 Open to collaboration on DevOps, Cloud, Security, and ML projects  
+Building scalable systems across **AWS**, **Kubernetes**, **Terraform**, **Python (FastAPI)**, and **React.js**.  
+Focused on cloud-native architectures, automation, and high-impact engineering.
 
 ---
+
+## Highlights
+- Designed and deployed containerized microservices using **FastAPI**, **Docker**, and **Kubernetes**
+- Built end-to-end **CI/CD pipelines** with GitHub Actions and Terraform
+- Developed production-grade **full-stack applications** using React + Node.js / Python
+- Experience with **data engineering**, ML tooling, and cloud security best practices
+
 ---
 
-## 📊 My GitHub stats so far :
+## Featured Projects
+- **EngineerGrid** — MERN + AWS full-stack platform for learning, collaboration, and engineering tools  
+- **Autonomous Mobile Robot Simulation** — ROS2, LiDAR, and 3D camera modeling with AWS IoT monitoring  
+- **Cloud Automation Toolkit** — Modular Terraform IaC for AWS architectures  
+- **DevOps Starter Kits** — CI/CD templates for containers, security scans, and deployments  
 
+---
+
+## 📊 GitHub Stats
 <div>
   <img
     height="150em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=houimliraed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=houimliraed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
   />
   <img
     height="150em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=houimliraed&layout=compact&langs_count=8&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=houimliraed&layout=compact&langs_count=8&theme=algolia"
   />
 </div>
 
 ---
 
-## 🌐 My Socials :
-
-<div align="center" >
-  <a href="https://www.linkedin.com/in/houimliraed/" target="_blank" rel="noreferrer">
-    <img
-      height="30px"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01e4430391344411d1?mp_source=share" target="_blank" rel="noreferrer">
-    <img
-      height="30px"
-      src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
-      alt="Upwork Badge"
-    />
-  </a>
-  <a href="mailto:houimliraed@engineergrid.com" target="_blank" rel="noreferrer">
-    <img
-      height="30px"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail Badge"
-    />
-  </a>
-</div>
-
----
-
-<!---
-houimliraed/houimliraed is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at y
+## Connect
+- **LinkedIn:** https://www.linkedin.com/in/houimliraed  
+- **Upwork:** https://www.upwork.com/freelancers/~01e4430391344411d1  
+- **Email:** houimliraed@engineergrid.com  
