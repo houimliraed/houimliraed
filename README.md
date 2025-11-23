@@ -1,15 +1,7 @@
-# Raed Houimli — Software & Cloud Engineer
+# Software DevOps & Cloud Engineer
 
 Building scalable systems across **AWS**, **Kubernetes**, **Terraform**, **Python (FastAPI)**, and **React.js**.  
 Focused on cloud-native architectures, automation, and high-impact engineering.
-
----
-
-## Highlights
-- Designed and deployed containerized microservices using **FastAPI**, **Docker**, and **Kubernetes**
-- Built end-to-end **CI/CD pipelines** with GitHub Actions and Terraform
-- Developed production-grade **full-stack applications** using React + Node.js / Python
-- Experience with **data engineering**, ML tooling, and cloud security best practices
 
 ---
 
