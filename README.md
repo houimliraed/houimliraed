@@ -1,6 +1,4 @@
-# Software DevOps & Cloud Engineer
-
-Building scalable systems across **AWS**, **Kubernetes**, **Terraform**, **Python (FastAPI)**, and **React.js**.  
+Building scalable systems across **AWS**, **Kubernetes**, **Terraform**, **Python (FastAPI)**, and **ML**.  
 Focused on cloud-native architectures, automation, and high-impact engineering.
 
 ---
