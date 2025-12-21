@@ -14,10 +14,3 @@ Focused on cloud-native architectures, automation, and high-impact engineering.
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=houimliraed&layout=compact&langs_count=8&theme=algolia"
   />
 </div>
-
----
-
-## Connect
-- **LinkedIn:** https://www.linkedin.com/in/houimliraed  
-- **Upwork:** https://www.upwork.com/freelancers/~01e4430391344411d1  
-- **Email:** houimliraed@engineergrid.com  
