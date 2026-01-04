@@ -1,9 +1,13 @@
-Building scalable systems across **AWS**, **Kubernetes**, **Terraform**, **Python (FastAPI)**, and **ML**.  
-Focused on cloud-native architectures, automation, and high-impact engineering.
+<div align="center">
+
+🚀 **Building scalable & resilient systems** across **AWS**, **Kubernetes**, **Terraform**, **Python (FastAPI)** & **ML**.  
+✨ Focused on **cloud-native architectures**, **automation**, and **high-impact engineering**.  
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Stats
+
+</div>
 <div>
   <img
     height="150em"
