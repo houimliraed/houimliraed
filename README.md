@@ -8,7 +8,7 @@
 ## ⚡ GitHub Stats
 
 </div>
-<div>
+<div align="center">
   <img
     height="150em"
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=houimliraed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
