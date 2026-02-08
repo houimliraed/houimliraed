@@ -1,10 +1,4 @@
 <div align="center">
-
-**Building scalable & resilient systems** across **AWS**, **Kubernetes**, **Terraform**, **React**, **Python (FastAPI)** & **ML**.  
-  Focused on **cloud-native architectures**, **automation**, and **high-impact engineering**.  
-
-## ⚡ GitHub Stats
-
 </div>
 <div align="center">
   <img
